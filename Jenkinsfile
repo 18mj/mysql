@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = "uni-shpark/myweb"
+    registry = "18mj/mysql"
     dockerImage = ""
   }
 
